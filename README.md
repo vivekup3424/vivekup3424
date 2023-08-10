@@ -103,7 +103,8 @@ if you like what i do, maybe consider buying me a coffee 🥺👉👈
     <a href="https://github.com/features/actions"><img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" width="50px" height="50px"/></a>
 
 </p>
-
+### What I am learning currently
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/6450fb76618c45b1baa80e1e?variant=dark&roadmaps=system-design%2Ccyber-security%2Cdevops%2Cfull-stack)](https://roadmap.sh)
 ### 📊 My Github Stats
 
 <p align="center">
