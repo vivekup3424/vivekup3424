@@ -1,6 +1,6 @@
 <!-- <img align="center" alt="image" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" style="border-radius: 100px" /> -->
 
-<a href="https://portfolio.me/" target="_blank">![My banner](images/portfolio.png)</a>
+<!--<a href="https://portfolio.me/" target="_blank">![My banner](images/portfolio.png)</a>-->
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"/>, I'm Vivek Upadhyay</h1>
 <h3 align="left">A Webdev based in India</h3>
