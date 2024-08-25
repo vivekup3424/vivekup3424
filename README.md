@@ -31,7 +31,7 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vivek Upadhyay's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vivekup3424&theme=highcontrast&hide_border=true&background=0D1117"/>
         <img alt="Vivek Upadhyay's streak" src="https://github-readme-stats.vercel.app/api?username=vivekup3424&show_icons=true&theme=radical"/>
         <img alt="Leetcode's streak" src="https://leetcard.jacoblin.cool/vivekup3424">
-        <img alt="github trophies" src = "https://github-profile-trophy.vercel.app/?username=vivekup3424">
+        <img alt="github trophies" src = "https://github-profile-trophy.vercel.app/?username=vivekup3424&theme=tokyonight">
 </p>
 <h2> 📬 Reach me out</h2>
 <p align="left">
