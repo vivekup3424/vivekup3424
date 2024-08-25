@@ -25,6 +25,19 @@
 </a>
 <a href="https://github.com/vivekup3424?tab=followers"><img src="https://img.shields.io/github/followers/vivekup3424?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
+### 📊 My Github Stats
+
+<p align="center">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vivek Upadhyay's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vivekup3424&theme=highcontrast&hide_border=true&background=0D1117"/>
+        <img alt="Vivek Upadhyay's streak" src="https://github-readme-stats.vercel.app/api?username=vivekup3424&show_icons=true&theme=radical"/>
+        <img atl="Leetcode's streak" src="https://leetcard.jacoblin.cool/vivekup3424">
+</p>
+<h2> 📬 Reach me out</h2>
+<p align="left">
+<a href = "https://www.linkedin.com/in/vivekup3424/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/vivekup3424"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/vivekup3424"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+</p>
 
 <h2> 👨‍💻 Where I spent time on this weekend </h2>
 
@@ -102,17 +115,3 @@ if you like what i do, maybe consider buying me a coffee 🥺👉👈
 ### What I am learning currently
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/6450fb76618c45b1baa80e1e?variant=dark&roadmaps=system-design%2Ccyber-security%2Cdevops%2Cfull-stack)](https://roadmap.sh)
-
-### 📊 My Github Stats
-
-<p align="center">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vivek Upadhyay's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vivekup3424&theme=highcontrast&hide_border=true&background=0D1117"/>
-        <img alt="Vivek Upadhyay's streak" src="https://github-readme-stats.vercel.app/api?username=vivekup3424&show_icons=true&theme=radical"/>
-        <img atl="Leetcode's streak" src="https://leetcard.jacoblin.cool/vivekup3424">
-</p>
-<h2> 📬 Reach me out</h2>
-<p align="left">
-<a href = "https://www.linkedin.com/in/vivekup3424/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/vivekup3424"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/vivekup3424"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-</p>
