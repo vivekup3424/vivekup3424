@@ -26,12 +26,7 @@
 <a href="https://github.com/vivekup3424?tab=followers"><img src="https://img.shields.io/github/followers/vivekup3424?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
 
-<!--### 🎶 Vibing to
-
-[![Spotify](https://spotify-live.vercel.app/api/spotify)](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF)
--->
-
-### 👨‍💻 Where I spent time on this weekend
+<h2> 👨‍💻 Where I spent time on this weekend </h2>
 
 <!--START_SECTION:waka-->
 
@@ -112,7 +107,7 @@ if you like what i do, maybe consider buying me a coffee 🥺👉👈
 
 <p align="center">
     <a href="https://github.com/vivekup3424/github-readme-streak-stats">
-        <img alt="Vivek Upadhyay's streak" src="https://github-readme-stats.vercel.app/api?username=vivekup3424"/>
+        <img alt="Vivek Upadhyay's streak" src="https://github-readme-stats.vercel.app/api?username=vivekup3424&show_icons=true&theme=radical"/>
     </a>
 </p>
 <p align="center">
