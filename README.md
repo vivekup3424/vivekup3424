@@ -120,8 +120,7 @@ if you like what i do, maybe consider buying me a coffee 🥺👉👈
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vivek Upadhyay's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vivekup3424&theme=highcontrast&hide_border=true&background=0D1117"/>
     </a>
 </p>
-## 📬 Reach me out
-
+<h2> 📬 Reach me out</h2>
 <p align="left">
 <a href = "https://www.linkedin.com/in/vivekup3424/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/vivekup3424"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
