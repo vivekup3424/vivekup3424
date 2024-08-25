@@ -112,11 +112,14 @@ if you like what i do, maybe consider buying me a coffee 🥺👉👈
 
 <p align="center">
     <a href="https://github.com/vivekup3424/github-readme-streak-stats">
+        <img alt="Vivek Upadhyay's streak" src="https://github-readme-stats.vercel.app/api?username=vivekup3424"/>
+    </a>
+</p>
+<p align="center">
+    <a href="https://github.com/vivekup3424/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vivek Upadhyay's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vivekup3424&theme=highcontrast&hide_border=true&background=0D1117"/>
     </a>
 </p>
-[![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivekup3424)](https://github.com/vivekup3424/github-readme-stats)
-
 ## 📬 Reach me out
 
 <p align="left">
