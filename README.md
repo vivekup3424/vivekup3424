@@ -107,7 +107,7 @@ if you like what i do, maybe consider buying me a coffee 🥺👉👈
 
 <p align="center">
     <a href="https://github.com/vivekup3424/github-readme-streak-stats">
-        <img alt="Vivek Upadhyay's streak" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"/>
+        <img alt="Vivek Upadhyay's streak" src="https://github-readme-stats.vercel.app/api?username=vivekup3424&show_icons=true&theme=radical"/>
     </a>
 </p>
 <p align="center">
