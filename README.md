@@ -25,7 +25,7 @@
 </a>
 <a href="https://github.com/vivekup3424?tab=followers"><img src="https://img.shields.io/github/followers/vivekup3424?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
-### 📊 My Github Stats
+<h2>📊 My Github Stats</h2>
 
 <p align="center">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vivek Upadhyay's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vivekup3424&theme=highcontrast&hide_border=true&background=0D1117"/>
