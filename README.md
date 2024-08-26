@@ -11,7 +11,7 @@
 
 -   🌱 I’m currently learning **Go language.**
 
--   👨‍💻 All of my projects are available at **[My Projects](https://github.com/vivekup3424)**
+-   👨‍💻 All of my projects are available at **[My Projects]([https://github.com/vivekup3424](https://github.com/vivekup3424?tab=repositories))**
 
 -   📫 How to reach me **vivekup3424@gmail.com**
 
